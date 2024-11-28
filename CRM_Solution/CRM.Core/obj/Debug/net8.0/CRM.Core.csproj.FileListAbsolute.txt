@@ -1,0 +1,11 @@
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\CRM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\CRM.Core.AssemblyInfoInputs.cache
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\CRM.Core.AssemblyInfo.cs
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\CRM.Core.csproj.CoreCompileInputs.cache
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\bin\Debug\net8.0\CRM.Core.deps.json
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\bin\Debug\net8.0\CRM.Core.dll
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\bin\Debug\net8.0\CRM.Core.pdb
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\CRM.Core.dll
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\refint\CRM.Core.dll
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\CRM.Core.pdb
+C:\Users\LionDev\OneDrive\Desktop\crm\CRM_Solution\CRM.Core\obj\Debug\net8.0\ref\CRM.Core.dll

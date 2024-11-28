@@ -1,0 +1,40 @@
+.welcome-title {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.welcome-message {
+    font-size: 1.2em;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.image-placeholder {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.welcome-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Optional: for rounded corners */
+}
+
+.getting-started-list {
+    text-align: center;
+}
+
+.continue-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.continue-button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
